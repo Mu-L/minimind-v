@@ -651,26 +651,16 @@ Visual signals act as a special "foreign language" to the LLM, so the ceiling of
 
 ## 🫶Supporter
 
-<a href="https://github.com/jingyaogong/minimind-v/stargazers">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=jingyaogong&repo=minimind-v&theme=dark"/>
-      <source media="(prefers-color-scheme: light)" srcset="https://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=jingyaogong&repo=minimind-v"/>
-      <img alt="github contribution grid snake animation" src="https://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=jingyaogong&repo=minimind-v&theme=dark"/>
-    </picture>
-</a>
-
-<a href="https://github.com/jingyaogong/minimind-v/network/members">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://bytecrank.com/nastyox/reporoster/php/forkersSVG.php?user=jingyaogong&repo=minimind-v&theme=dark"/>
-      <source media="(prefers-color-scheme: light)" srcset="https://bytecrank.com/nastyox/reporoster/php/forkersSVG.php?user=jingyaogong&repo=minimind-v"/>
-      <img alt="github contribution grid snake animation" src="https://bytecrank.com/nastyox/reporoster/php/forkersSVG.php?user=jingyaogong&repo=minimind-v&theme=dark"/>
-    </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://bytecrank.com/nastyox/reporoster/php/forkersSVG.php?user=jingyaogong&repo=minimind-v&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://bytecrank.com/nastyox/reporoster/php/forkersSVG.php?user=jingyaogong&repo=minimind-v"/>
+  <img alt="github contribution grid snake animation" src="https://bytecrank.com/nastyox/reporoster/php/forkersSVG.php?user=jingyaogong&repo=minimind-v&theme=dark"/>
+</picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=jingyaogong/minimind-v&type=Date&theme=dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=jingyaogong/minimind-v&type=Date"/>
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=jingyaogong/minimind-v&type=Date&theme=dark"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=jingyaogong/minimind-v&type=date&theme=dark&legend=top-left&sealed_token=i82-lG5ui1pJxeJ0Ab2XpCtyyMEYK-f-kJE3MgYQBCs7OiYg96pTDTCBNPBuFmuHd0TwcS7QZovowQ_F06RkcEhkKgHSjLNInMSv4AROEYuBvdmMfiSFb7Ht2QPm4jxFJ91ODjf1YH68d6tBsKrsUnsY1DLxySOqqUKUhnmCuoI7-uwET-RfH1j9OOdN"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=jingyaogong/minimind-v&type=date&legend=top-left&sealed_token=i82-lG5ui1pJxeJ0Ab2XpCtyyMEYK-f-kJE3MgYQBCs7OiYg96pTDTCBNPBuFmuHd0TwcS7QZovowQ_F06RkcEhkKgHSjLNInMSv4AROEYuBvdmMfiSFb7Ht2QPm4jxFJ91ODjf1YH68d6tBsKrsUnsY1DLxySOqqUKUhnmCuoI7-uwET-RfH1j9OOdN"/>
+  <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=jingyaogong/minimind-v&type=date&legend=top-left&sealed_token=i82-lG5ui1pJxeJ0Ab2XpCtyyMEYK-f-kJE3MgYQBCs7OiYg96pTDTCBNPBuFmuHd0TwcS7QZovowQ_F06RkcEhkKgHSjLNInMSv4AROEYuBvdmMfiSFb7Ht2QPm4jxFJ91ODjf1YH68d6tBsKrsUnsY1DLxySOqqUKUhnmCuoI7-uwET-RfH1j9OOdN"/>
 </picture>
 
 # 🎓 Citation
